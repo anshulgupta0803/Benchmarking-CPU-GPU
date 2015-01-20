@@ -1,4 +1,4 @@
-READ ME
+READ ME #
 
 Codes:
 benchmark1 -> benchmark1.cu   computes the square root of an array and stores the output in another array.
